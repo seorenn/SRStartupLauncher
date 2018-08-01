@@ -8,6 +8,14 @@
 
 import Cocoa
 
-class SRStartupLauncher: NSObject {
+public class SRStartupLauncher: NSObject {
+    
+    public static let shared = SRStartupLauncher()
+    
+    public var isLaunchAtStartUp: Bool {
+        // TODO
+        return false
+    }
+    
     // TODO
 }
