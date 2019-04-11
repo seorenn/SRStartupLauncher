@@ -1,3 +1,5 @@
+**Sorry. This project was deprecated.**
+
 SRStartupLauncher
 ========================
 
